@@ -1,0 +1,14 @@
+layout_spectrum: 0.21020085248164833
+typography_spectrum: 0.9309891015291214
+color:
+  brandStrength: 0.7082991402130574
+  lightness: 0.8641825148370117
+  saturation: 0.38764717639423907
+  rhythmicContrast: 0.2837808425538242
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+name: physics
