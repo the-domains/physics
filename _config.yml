@@ -1,4 +1,3 @@
-layout_spectrum: 0.21020085248164833
 typography_spectrum: 0.9309891015291214
 color:
   brandStrength: 0.7082991402130574
@@ -11,4 +10,11 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.21020085248164833
 name: physics
+navigation:
+  - name: My homepage
+    url: 'http://jackmerrin.com'
+    type: external
+title: Jack Merrin
+description: Wow I am on the grid
